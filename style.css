@@ -1,0 +1,25 @@
+
+.card{
+    width: 18rem;
+}
+
+#galeria img {
+    opacity: 50%;
+}
+
+#galeria img:hover {
+    opacity: 100%;
+}
+
+#cards{
+    text-align: -webkit-center;
+}
+
+footer {
+    text-align: center;
+    align-self: center;
+    background-color: rgb(40, 170, 153);
+    height: 100px;
+    margin-top: 50px;
+    padding: 5%;
+}
